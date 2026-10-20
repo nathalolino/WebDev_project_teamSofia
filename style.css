@@ -11,15 +11,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-.side-character {
-    position: fixed;
-    bottom: 0;           
-    right: 20px;         
-    height: 350px;       
-    width: auto;         
-    z-index: 10;          
   
-}
+  
+
 #a1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     font-size: 35px; 
@@ -53,7 +47,6 @@ body {
   color: #ff2a75;
   font-size: 2.5rem;
   margin-top: 20px;
-
 
 }
 #link1:link{
