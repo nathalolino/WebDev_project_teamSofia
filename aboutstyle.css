@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 4rem; color: rgb(230, 106, 116);
+    text-align: center;
+    
+}
+.about-backhome {
+    font-size: 3rem;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbq1AkbWAvt_3rLpvCbZNS3wnxefeZAyaYnlHGWXL1A&s');
+    width: 155px;
+    height: 75px;
+    padding: 30px;
+    color: purple
+}
+#link2:link{
+    color:blue
+}
+#link2:hover{
+    color:aquamarine
+}
+body {
+  background: linear-gradient(rgba(15, 15, 19, 0.75)), 
+              url(https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#about-title {
+    width: 500px;
+    margin: 0 auto;
+    background-color: rgba(231, 44, 53, 0.5);
+    padding: 20px;
+    backdrop-filter: blur(4px);
+}
+
+#a2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 25px; 
+    color: azure; 
+    text-align: left; 
+    background-color: black; 
+}
+#about-image {
+    width: 300px;
+    height: auto;
+}
+.about-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-size: 25px; 
+    color: cadetblue; 
+    background-image: url("://images.unsplash.com/photo-1557683304-673a23048d34?q=80&w=564&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+#about-page h2, h3, h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 35px; 
+    color: darkslateblue;}
