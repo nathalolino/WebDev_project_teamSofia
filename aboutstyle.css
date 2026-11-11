@@ -1,7 +1,8 @@
 h1 {
-    font-family: 'Permanent Marker', cursive;
-    font-size: 4rem; color: rgb(230, 106, 116);
-    text-align: center;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #ff2a75;
+  font-size: 2.5rem;
     
 }
 .about-backhome {
@@ -27,10 +28,11 @@ body {
   background-attachment: fixed;
 }
 #about-title {
-    width: 500px;
-    margin: 0 auto;
-    background-color: rgba(231, 44, 53, 0.5);
-    padding: 20px;
+    background-color: rgba(15, 15, 20, 0.75);
+    padding: 30px;
+    border-radius: 16px;
+    max-width: 500px;
+    margin: 0 auto; 
     backdrop-filter: blur(4px);
 }
 
@@ -53,5 +55,6 @@ body {
 }
 #about-page h2, h3, h4 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
-    font-size: 35px; 
-    color: darkslateblue;}
+    font-size: 2.8rem; 
+    color: rgb(58, 133, 191);
+    text-decoration:underline ;}
